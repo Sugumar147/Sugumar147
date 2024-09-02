@@ -23,6 +23,7 @@
       <div align="center">
         <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring" height="50" />  
         <img style="margin: 10px" src="https://mybatis.org/images/mybatis-logo.png" alt="MyBatis" height="50" />   
+        <img style="margin: 10px" src="https://raw.githubusercontent.com/mockito/mockito/main/src/main/javadoc/org/mockito/logo.png" alt="MyBatis" height="50" />   
       </div>
     </td>
     <td valign="top" width="33%">
@@ -73,6 +74,11 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sugumar147&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sugumar147&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sugumar147&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<div style="display: flex; justify-content: center; gap: 50px;" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sugumar147&theme=dark&hide_border=false&include_all_commits=false&count_private=false" style="max-width: 500px; height: auto;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sugumar147&theme=dark&hide_border=false" style="width: 490px; height: auto;" />
+</div>
+
+ <br/>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sugumar147&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" align="center" /></div> 
