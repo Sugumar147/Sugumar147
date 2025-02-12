@@ -14,7 +14,7 @@
       <div align="center">  
         <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" height="50" />  
         <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="50" />  
-        <img style="margin: 10px" src="https://cdn.jsdelivr.net/npm/simple-icons@14.6.0/index.min.js" alt="C" height="50" />  
+        <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" alt="Javascript" height="50" />  
         <img style="margin: 10px" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" height="50" />
       </div>
     </td>
