@@ -2,7 +2,7 @@
 👋 Hi there! I’m Sugumar, a passionate Developer with a knack for turning ideas into code and crafting elegant solutions to complex problems.<br><br>🔭 Current Focus: I’m immersed in developing projects using Spring Boot and have a keen interest in web development. My goal is to build scalable and efficient web applications that make a difference.<br><br>🌱 Learning and Growing: I thrive on learning new technologies and staying on top of industry trends. Right now, I’m exploring CI/CD practices and diving into Data Structures and Algorithms (DSA) to enhance my development skills.<br><br>📈 Projects I’m Proud Of:<br><br>🎬Movie Booking System: A robust solution designed to offer seamless booking experiences, efficient data management, and streamlined operations for cinema enthusiasts.<br><br>📫 Get in Touch: I’m always excited to connect with fellow tech enthusiasts, discuss new ideas, or explore potential collaborations. Feel free to reach out to me via sugumarjayasurya7@gmail.com.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_s.u.g.u.m.a.r_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sugumar2002)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_s.u.g.u.m.a.r_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sugumar147)
 
 # 💻 Tech Stack:
 
